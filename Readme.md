@@ -41,7 +41,8 @@ Oscilloscope is arguably one of the most versatile and essential pieces of test 
    <div align="center">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/8fa63cc5772dac12a5f9111caa382b584655cb03/Output%20images/Exp%231/611570866_1523190242309116_1086072923198202061_n.jpg" alt="Experiment 1">
   <p>Initial square wave</p>
-  <img src=
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/33dff200533d48f75c995f0a5132851525d8ba36/Output%20images/Exp%231/Part1_resultfig5.jpeg" alt="Experiment 1">
+  <p>Adjusted setting with 1kHz and 1ms signal</p>
 </div>
 
 
