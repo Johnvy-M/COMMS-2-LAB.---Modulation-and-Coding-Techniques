@@ -85,6 +85,13 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
 <div align="center">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/2424a7e03287b6fa8485b85a8047cf707f4da93a/Output%20images/Exp%232/618178664_2933858916824111_740746382916175575_n.jpg" alt="Experiment 2">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/2424a7e03287b6fa8485b85a8047cf707f4da93a/Output%20images/Exp%232/615483484_1050851860558715_7895982248781836263_n.jpg" alt="Experiment 2">
+  <p>Output of Master Signal Module </p>
+
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/8ed81de1d6e6a4e5593a75195ebe295d71b27a03/Output%20images/Exp%232/614686553_1550883316181279_454716039153472234_n.jpg" alt="Experiment 2">
+  <p>Output of Speech Module</p>
+
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/8ed81de1d6e6a4e5593a75195ebe295d71b27a03/Output%20images/Exp%232/618289347_1406738114257150_819515147584109207_n.jpg" alt="Experiment 2">
+    <p>Output of Buffer Module</p>
   
 
 
