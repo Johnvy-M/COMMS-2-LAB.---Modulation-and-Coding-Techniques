@@ -12,7 +12,7 @@ This is a laboratory report on Communication. In this report, viewers can see th
 As its name implies, the Emona Telecons-Trainer 101 is used to help students learn about communications and telecommunications principles. It lets you bring to life the block diagrams that fill communications textbooks. A "block diagram" is a simplified representation of a more complex circuit. An example is shown in the Figure below. 
 
 <p align="center">
-  <img src=(https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/819f91a72027182ad75dd37fdcd2c19dd4341786/Diagram%20images/Exp%231/Adobe%20Express%20-%20file%20(1).png" alt="Block Diagram">
+  <img src="Diagram images/Exp#1/Adobe Express - file (1).png" alt="Block Diagram">
 </p>
 
 The Emona Telecoms-Trainer 101, illustrated below, has a collection of blocks (called modules) that you can put together to implement dozens of communications and telecommunications block diagrams. 
