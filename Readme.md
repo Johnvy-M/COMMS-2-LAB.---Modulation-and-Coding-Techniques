@@ -38,6 +38,10 @@ Oscilloscope is arguably one of the most versatile and essential pieces of test 
 * One oscilloscope lead
 * Facepate layout guide for the scope
 
+   <p align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/acc3456c005fa2674b02503b23d2d59579f98603/Diagram%20images/Exp%231/Adobe%20Express%20-%20file%20(1).png" alt="Block Diagram">
+</p>
+
 
 
  
