@@ -63,15 +63,21 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
 * Assorted Emona Telecom-Trainer 101 patch leads
 * For 2.1 only - one set of headphones (stereo)
 
+### 2.1 - The Master Signal, Speech and Buffer modules 
 ### Circuit Diagram
 
 <div align="center">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/7eb29042363687dba592d8d60d3b4bd6749050e8/Diagram%20images/Exp%232/exp2.1%20(fig1).jpeg" alt="Experiment 2">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/04f08233a6412fe1b1349b5c5f9d9712585e8598/Diagram%20images/Exp%232/Exp2.1%20(fig2).jpeg" alt="Experiment 2">
-  <p>Master Signal Module</p>
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/9d6e326b57cd66785817e86802a73e8b41d23e2e/Diagram%20images/Exp%232/exp2.1%20(fig4).jpeg" alt="Experiment 2">
+   <p>The Master Signal Module</p>
 
-  <img src="" alt="Experiment 2">
-  
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/9d6e326b57cd66785817e86802a73e8b41d23e2e/Diagram%20images/Exp%232/exp2.1%20(fig6).jpeg" alt="Experiment 2">
+  <p>The Speech Module</p>
+
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/9d6e326b57cd66785817e86802a73e8b41d23e2e/Diagram%20images/Exp%232/exp2.1%20(fig7).jpeg" alt="Experiment 2">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/9d6e326b57cd66785817e86802a73e8b41d23e2e/Diagram%20images/Exp%232/exp2.1%20(fig8).jpeg" alt="Experiment 2">
+  <p>The Buffer Module</p>
 
 
 
