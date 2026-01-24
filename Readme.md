@@ -66,7 +66,9 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
 ### Circuit Diagram
 
 <div align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/7eb29042363687dba592d8d60d3b4bd6749050e8/Diagram%20images/Exp%232/exp2.1%20(fig1).jpeg" alt="Experiment 2">
   <img src="" alt="Experiment 2">
+  
   <p>Initial setting square wave</p>
 
 
