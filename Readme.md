@@ -92,6 +92,12 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
 
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/8ed81de1d6e6a4e5593a75195ebe295d71b27a03/Output%20images/Exp%232/618289347_1406738114257150_819515147584109207_n.jpg" alt="Experiment 2">
     <p>Output of Buffer Module</p>
+</div>
+
+### 2.2 - The Adder and Phase Shifter modules 
+### Circuit Diagram
+
+
   
 
 
