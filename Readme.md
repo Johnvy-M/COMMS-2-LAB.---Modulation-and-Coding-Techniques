@@ -8,7 +8,7 @@ This is a laboratory report on Communication. In this report, viewers can see th
 ## Table of Contents
 * Introduction of the Emona Telecoms - Trainer 101
 * Exp #1: Setting up an Oscilloscope
-* Exp #2: An Introduction to the Telecoms Trainer-101
+* Exp #2: Utilizing Emona Trainer Blocks
 * Exp #3: Using the Telecoms - Trainer 101 to Model Equation 
 * Exp #4: Amplitude Modulation
   
@@ -46,6 +46,28 @@ Oscilloscope is arguably one of the most versatile and essential pieces of test 
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e66fc91e90055d01c27c0763f92fc7a8063d7de7/Output%20images/Exp%231/616516994_2056591228508969_679429964899374301_n.jpg" alt="Experiment 1">
   <p>Counting the period of the signal using the number of divisions for one complete cycle</p>
 </div>
+
+
+
+## Experiment #2 - Utilizing Emona Trainer Blocks 
+The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that you can put together to implement dozens of communications and telecommunications block together. The trainer is categorized into several functional groups. By connecting these together with banana cords, you build everything from a simple modulation technique to complex digital phase-shift keying systems. The beauty of this system is that it mirrors Mathematical modeling. It's using mathematical equation for the same principle in communication, such as multiplying and adding. 
+
+### Objectives:
+* Learn some trainer's analog module
+* Know each properties of different module
+
+### Equipment
+* Emona Telecom-Trainer 101 (plus power pack)
+* Dual channel 20Mhz oscilloscope
+* Two Emona Telecom-Trainer 101 oscilloscope leads
+* Assorted Emona Telecom-Trainer 101 patch leads
+* For 2.1 only - one set of headphones (stereo)
+
+### Circuit Diagram
+
+<div align="center">
+  <img src="" alt="Experiment 2">
+  <p>Initial setting square wave</p>
 
 
 
