@@ -97,6 +97,17 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
 ### 2.2 - The Adder and Phase Shifter modules 
 ### Circuit Diagram
 
+<div align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%201).jpeg" alt="Experiment 2">
+  <div align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%202).jpeg" alt="Experiment 2">
+  <p>The Adder module</p>
+  
+<div align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%203).jpeg" alt="Experiment 2">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%204).jpeg" alt="Experiment 2">
+   <p>The Phase Shifter module</p>
+  
 
   
 
