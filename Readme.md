@@ -78,7 +78,14 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/9d6e326b57cd66785817e86802a73e8b41d23e2e/Diagram%20images/Exp%232/exp2.1%20(fig7).jpeg" alt="Experiment 2">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/9d6e326b57cd66785817e86802a73e8b41d23e2e/Diagram%20images/Exp%232/exp2.1%20(fig8).jpeg" alt="Experiment 2">
   <p>The Buffer Module</p>
+</div>
 
+### Results 
+
+<div align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/2424a7e03287b6fa8485b85a8047cf707f4da93a/Output%20images/Exp%232/618178664_2933858916824111_740746382916175575_n.jpg" alt="Experiment 2">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/2424a7e03287b6fa8485b85a8047cf707f4da93a/Output%20images/Exp%232/615483484_1050851860558715_7895982248781836263_n.jpg" alt="Experiment 2">
+  
 
 
 
