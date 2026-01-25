@@ -11,6 +11,7 @@ This is a laboratory report on Communication. In this report, viewers can see th
 * Exp #2: Utilizing Emona Trainer Blocks
 * Exp #3: Using the Telecoms - Trainer 101 to Model Equation 
 * Exp #4: Amplitude Modulation
+* Summary & Learnings
   
 ## Introduction of the Emona Telecoms - Trainer 101
 As its name implies, the Emona Telecons-Trainer 101 is used to help students learn about communications and telecommunications principles. It lets you bring to life the block diagrams that fill communications textbooks. A "block diagram" is a simplified representation of a more complex circuit. An example is shown in the Figure below. 
@@ -261,7 +262,7 @@ AM signal doesn't consist of any signal at the message frequency. This is despit
   </div>
 </details>
 
-## Summary & Discussion 
+## Summary & Learnings 
 
 ### Lab Experiment Result Summary
 
@@ -274,7 +275,21 @@ AM signal doesn't consist of any signal at the message frequency. This is despit
 
 All data & results collected are in this file
 
-[Click here to download](https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/d368dc32fd94a497c89736fd5a70b451a786fe89/Data%20%26%20Results/Amplitude_Modulation(exp)%20Tables_and_Data.pdf)
+[Click here to download(Tables & Data)](https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/d368dc32fd94a497c89736fd5a70b451a786fe89/Data%20%26%20Results/Amplitude_Modulation(exp)%20Tables_and_Data.pdf)
+
+Q&A Part of Experiment 
+
+[Click here to download(Q & A)](https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/4d193168695c7dcfc34d5b17b948a5b39d625b83/Data%20%26%20Results/QUESTIONS%20AND%20ANSWERS%20(Exp%201-4%20Comms%202).pdf)
+
+
+### Learnings 
+
+Through these experiments conducted using the Emona Telecoms-Trainer 101, several basic and important principles of telecommuncations and communications are demonstrated. First, the proper setting up of oscilloscope. Knowing how the oscilloscope works is an essential skill for a communication engineer. Signal properties are very important to know, and you will obtain it correctly if your oscilloscope is being used correctly. 
+For the second experiment, the Emona Telecoms-Trainer 101 blocks has its own distict functions for creating a signal. Using blocks in this way, it is easier to use and understand each properties of signal and how to apply it in real life. The Emona module also uses some mathematical equations to help the students visualize each function of it and understand how they works, how they will apply to the signal and what are their effects for the output. For the experiment 4, the basic principle of Amplitude Modulation (AM) is discussed. 
+
+Overall, Emona Trainer module really helps engineering student to see the world of communications. It might be confusing from the start, but if you get the hang of it, you can do basic troubleshooting with the signal and the apparatus being used. In this way, we can practice how real life communication engineering works, to know what we really need to expect in the industry if we finally entering it, and how we become one successfully. 
+
+
 
    
   
