@@ -272,6 +272,9 @@ AM signal doesn't consist of any signal at the message frequency. This is despit
 | **Part 3** | Adder Gain | Linear | Linear | Superposition verified |
 | **Part 4** | Modulation Index | $m \leq 1$ | $m \leq 1$ | Linear AM achieved |
 
+All data & results collected are in this file
+
+[Click here to download](https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/d368dc32fd94a497c89736fd5a70b451a786fe89/Data%20%26%20Results/Amplitude_Modulation(exp)%20Tables_and_Data.pdf)
 
    
   
