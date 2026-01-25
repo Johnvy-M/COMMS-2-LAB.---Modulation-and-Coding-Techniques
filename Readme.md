@@ -100,11 +100,9 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
 
 <div align="center">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%201).jpeg" alt="Experiment 2">
-  <div align="center">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%202).jpeg" alt="Experiment 2">
   <p>The Adder module</p>
   
-<div align="center">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%203).jpeg" alt="Experiment 2">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%204).jpeg" alt="Experiment 2">
    <p>The Phase Shifter module</p>
@@ -128,7 +126,30 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e374734ff3bee5e8df4daf5de4d216474ef84d20/Diagram%20images/Exp%232/exp2.3%20(fig%203).jpg" alt="Experiment 2">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e374734ff3bee5e8df4daf5de4d216474ef84d20/Diagram%20images/Exp%232/exp2.3%20(fig%204).jpg" alt="Experiment 2">
 </div>
-      
+
+## Experiment #3 - Using the Telecoms - Trainer 101 to Model Equation 
+Mathematics is an important part of electrnics and this is especially true for communications and telecommunications. As you'll learn, the output of all communications systems can be described mathematically with an equation. although the math that you'll need for this manual is relatively light, there is some. Helpfully, the Emona Telecom-Trainer 101 is essentially a "math lab" for signals that can model communications equations to bring them to life. Emona Trainer basically allows you to biuld telecommunications equation by physicially patching together hardware modules that represents specific mathematical operations. 
+
+### Objectives 
+* To introduce the modelling equation to us by using the Emona Telecom-Trainer 101 to implement two relatively simple equations.
+
+### Equipment 
+* Emona Telecom-Trainer 101 (plus power-pack)
+* Dual Channel 20Mhz oscilloscope
+* Two Emona Telecoms-Trainer 101 oscilloscope leads
+* Assorted Emona Telecom-Trainer 101 patch leads
+
+### Circuit Diagram 
+
+  <div align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/db4205c85904c92f78503f1321cbb999a7210259/Diagram%20images/Exp%233/exp3%20(fig%202).jpg" alt="Experiment 3">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/db4205c85904c92f78503f1321cbb999a7210259/Diagram%20images/Exp%233/exp3%20(fig%203).jpg" alt="Experiment 3">
+   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/db4205c85904c92f78503f1321cbb999a7210259/Diagram%20images/Exp%233/exp3%20(fig%204).jpg" alt="Experiment 3">
+   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/db4205c85904c92f78503f1321cbb999a7210259/Diagram%20images/Exp%233/exp3%20(fig%205).jpg" alt="Experiment 3">
+  </div>
+
+### Results 
+
   
 
   
