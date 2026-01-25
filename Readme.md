@@ -148,9 +148,24 @@ Mathematics is an important part of electrnics and this is especially true for c
    <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/db4205c85904c92f78503f1321cbb999a7210259/Diagram%20images/Exp%233/exp3%20(fig%205).jpg" alt="Experiment 3">
   </div>
 
-### Results 
+### Results
 
-  
+  <div align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/fe0726226a31d86029ac90ab733a19ab57fb8cb6/Output%20images/Exp%233/84743ad6-d271-4888-bedd-d5b6c79c188e.jpg" alt="Experiment 3">
+  <p>180 degrees out of phase without the adder module </p>
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/fe0726226a31d86029ac90ab733a19ab57fb8cb6/Output%20images/Exp%233/613901709_852136984290949_7124630608526476402_n.jpg" alt="Experiment 3">
+  <p>180 degrees out of phase with the adder module (A + B) </p>
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/fe0726226a31d86029ac90ab733a19ab57fb8cb6/Output%20images/Exp%233/614921573_1429920895445236_1521186991258701236_n.jpg" alt="Experiment 3">
+  <p>360 degrees out of phase with the adder module (A + B) </p>
+  </div>
+
+
+## Experiment 4 - Amplitude Modulation (AM) 
+In an amplitude modulation (AM) communications system, speech and music are converted into an electrical signal using a device such as a microphone. This electrical signal is called the message or baseband signal. The message signal is then used to electrically vary the amplitude of a pure sinewave called the carrier. The carrier usually has a frequency that is much higher than the message's frequency. 
+
+###
+
+
 
   
 
