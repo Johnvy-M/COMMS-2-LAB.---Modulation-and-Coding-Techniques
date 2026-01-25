@@ -91,6 +91,7 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
   <p>Output of Speech Module</p>
 
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/8ed81de1d6e6a4e5593a75195ebe295d71b27a03/Output%20images/Exp%232/618289347_1406738114257150_819515147584109207_n.jpg" alt="Experiment 2">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e374734ff3bee5e8df4daf5de4d216474ef84d20/Output%20images/Exp%232/614930485_2034741260641722_893558606348204976_n.jpg" alt="Experiment 2">
     <p>Output of Buffer Module</p>
 </div>
 
@@ -107,6 +108,27 @@ The Emona Telecoms-Trainer 101 has a collection of blocks (called modules) that 
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%203).jpeg" alt="Experiment 2">
   <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/52ddab2598f8d26ba1e8db162d55556aaf166d33/Diagram%20images/Exp%232/exp2.2%20(fig%204).jpeg" alt="Experiment 2">
    <p>The Phase Shifter module</p>
+</div>
+
+### Results 
+
+  <div align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e374734ff3bee5e8df4daf5de4d216474ef84d20/Output%20images/Exp%232/614913101_1191106322728100_6374960099021719771_n.jpg" alt="Experiment 2">
+  <p>Adder module output signal</p>
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e374734ff3bee5e8df4daf5de4d216474ef84d20/Output%20images/Exp%232/615483484_1050851860558715_7895982248781836263_n.jpg" alt="Experiment 2">
+  <p>Output signal with Phase Shifter</p>
+</div>
+
+### 2.3 - The Voltage Controlled Oscillator (VCO) module
+### Circuit Diagram
+
+<div align="center">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e374734ff3bee5e8df4daf5de4d216474ef84d20/Diagram%20images/Exp%232/exp2.3%20(fig%201).jpg" alt="Experiment 2">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e374734ff3bee5e8df4daf5de4d216474ef84d20/Diagram%20images/Exp%232/exp2.3%20(fig%202).jpg" alt="Experiment 2">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e374734ff3bee5e8df4daf5de4d216474ef84d20/Diagram%20images/Exp%232/exp2.3%20(fig%203).jpg" alt="Experiment 2">
+  <img src="https://github.com/Johnvy-M/COMMS-2-LAB.---Modulation-and-Coding-Techniques/blob/e374734ff3bee5e8df4daf5de4d216474ef84d20/Diagram%20images/Exp%232/exp2.3%20(fig%204).jpg" alt="Experiment 2">
+</div>
+      
   
 
   
